@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+
+.bg-container {
+  background-color: #092e33;
+  border-radius: 10px;
+  border: 2px solid #00e7ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.list-container {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-card {
+  background-color: #00e7ff;
+  display: flex;
+  align-items: center;
+}
+
+.logo-item-card {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}

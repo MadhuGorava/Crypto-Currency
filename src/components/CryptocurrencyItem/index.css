@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.list-item-container {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-card {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}

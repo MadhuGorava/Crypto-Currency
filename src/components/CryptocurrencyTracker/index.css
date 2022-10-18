@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  color: #00e7ff;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+
+.image {
+  height: 200px;
+  width: 80%;
+}
